@@ -1,4 +1,5 @@
 import PyPDF2
+# Requires PyPDF2 -> pip install PyPDF2 
 
 # Combine PDF files
 def combine_pdfs(input_pdfs, output_pdf):
