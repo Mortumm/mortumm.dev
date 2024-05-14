@@ -1,2 +1,0 @@
-# mortumm.dev
-Developer page.
