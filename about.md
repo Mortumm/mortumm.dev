@@ -16,6 +16,7 @@ Here you can find my curriculum vitae and the random ramblings from all walks of
 You can reach me on most platforms by the handle @mortumm
 
 Or you could just write me a nice letter to the following address:
+
 me ( a ) mortumm dot dev
 
 [GitHub](https://github.com/Mortumm)
@@ -23,7 +24,3 @@ me ( a ) mortumm dot dev
 [X.com](https://x.com/mortumm)
 
 [LinkedIn](https://www.linkedin.com/in/nuno-mendes-engineer/)
-
-## Thanks
-
-To my family for all the support, to the few close friends (yes, you!) and PQuod for the fantastic site theme this site is built from.
