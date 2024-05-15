@@ -10,7 +10,7 @@ description: "Mortumm's worklog and portfolio: Hardware enthusiasts transition t
 copyright: "© It belongs to me." # The mentions that appear in the site's footer
 url: "https://mortumm.dev" # The base hostname for you site, e.g. http://mysite.com
 baseurl: "/" # The subpath of your site, e.g. /blog
-repo:
+repo: https://github.com/Mortumm/mortumm.dev
 email: me@mortumm.dev # The owner's email
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
