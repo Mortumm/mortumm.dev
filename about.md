@@ -14,7 +14,8 @@ Here you can find my portfolio, CV and the random ramblings from all walks of li
 ## Contact
 
 You can reach me on most platforms by the handle @mortumm .
-Or you could just write me a nice letter to the following address me ( a ) mortumm dot dev
+
+Or you could just write me a nice letter to the following address me ( a ) nunofix dot com
 
 ## Thanks
 
