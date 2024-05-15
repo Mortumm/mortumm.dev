@@ -13,10 +13,17 @@ Here you can find my curriculum vitae and the random ramblings from all walks of
 
 ## Contact
 
-You can reach me on most platforms by the handle @mortumm .
+You can reach me on most platforms by the handle @mortumm
 
-Or you could just write me a nice letter to the following address me ( a ) nunofix dot com
+Or you could just write me a nice letter to the following address:
+me ( a ) mortumm dot dev
+
+[GitHub] (https://github.com/Mortumm)
+
+[X.com] (https://x.com/mortumm)
+
+[LinkedIn] (https://www.linkedin.com/in/nuno-mendes-engineer/)
 
 ## Thanks
 
-My family for all the support, the few close friends (yes, you!) and PQuod for the fantastic site theme this site is built upon.
+To my family for all the support, to the few close friends (yes, you!) and PQuod for the fantastic site theme this site is built from.
