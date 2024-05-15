@@ -18,11 +18,11 @@ You can reach me on most platforms by the handle @mortumm
 Or you could just write me a nice letter to the following address:
 me ( a ) mortumm dot dev
 
-[GitHub] (https://github.com/Mortumm)
+[GitHub](https://github.com/Mortumm)
 
-[X.com] (https://x.com/mortumm)
+[X.com](https://x.com/mortumm)
 
-[LinkedIn] (https://www.linkedin.com/in/nuno-mendes-engineer/)
+[LinkedIn](https://www.linkedin.com/in/nuno-mendes-engineer/)
 
 ## Thanks
 
