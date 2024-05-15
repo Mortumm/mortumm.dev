@@ -1,4 +1,123 @@
-<h1 id="this-is-about-me">This is about me</h1>
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width-device-width, intial-scale=1">
+    
+    <title>mortumm.dev</title>
+    <meta name="description" content="Mortumm's worklog and portfolio: Hardware enthusiasts transition to software.">
+    <link rel="stylesheet" href="/about/assets/styles.css"></head>
+<body><input class="dark-mode-checkbox sr-only" id="dark-mode" type="checkbox">
+<input class="typo-plus-checkbox sr-only" id="typo-plus" type="checkbox">
+<input class="typo-dys-checkbox sr-only" id="typo-dys" type="checkbox">
+<div class="theme-container grow">
+<header>
+    <div class="site_title" role="heading" aria-level="1">
+      <a href="/about/" class="site-title">
+        mortumm.dev
+      </a>
+    </div>
+  <nav>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+            <a href="/about/about/" class="pages_links">
+              <span class="pages_names">About</span>
+            </a>
+        
+      
+        
+            <a href="/about/archives/" class="pages_links">
+              <span class="pages_names">Archives</span>
+            </a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+  </nav>
+  <div class="site_functions">
+    
+      <label class="dark-mode-label" aria-label="Night Mode" for="dark-mode"></label>
+    
+    
+      <label class="typo-plus-label" aria-label="Change font size" for="typo-plus"></label>
+    
+  </div>
+</header>
+<main class="page_content" aria-label="Content">
+      
+    <article>
+  <h1>About</h1>
+  
+  
+    <div class="page-typo-type">
+      <label class="typo-dys-label" aria-label="typo sans-serif" for="typo-dys"></label>
+    </div>
+  
+  <h2 id="mortumm--nuno-m">Mortumm = Nuno M</h2>
 
-<p>Lots of information here</p>
+<p>This my very own small corner in the web. Here you can find my portfolio, CV and the random ramblings from all walks of life, hardware or software mostly though.</p>
 
+<h2 id="contact">Contact</h2>
+
+<p>For professional or any other inquiry, you can reach me on most platforms by the handle @mortumm . Or you could just write me a nice letter to the following address me ( a ) mortumm dot dev</p>
+
+<h2 id="thanks">Thanks</h2>
+
+<p>My family for all the support, the few close friends (yes, you!) and PQuod for the fantastic theme.</p>
+
+  <div class="line"></div>
+</article>
+
+
+    </main>      <footer>
+        © It belongs to me.
+      </footer>
+    </div>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+  const checkbox = document.querySelector('.dark-mode-checkbox');
+
+  checkbox.checked = localStorage.getItem('darkMode') === 'true';
+
+  checkbox.addEventListener('change', function (event) {
+    localStorage.setItem('darkMode', event.currentTarget.checked);
+  });
+});
+
+  document.addEventListener('DOMContentLoaded', function () {
+  const checkbox = document.querySelector('.typo-plus-checkbox');
+
+  checkbox.checked = localStorage.getItem('typoPlus') === 'true';
+
+  checkbox.addEventListener('change', function (event) {
+    localStorage.setItem('typoPlus', event.currentTarget.checked);
+  });
+});
+
+    document.addEventListener('DOMContentLoaded', function () {
+  const checkbox = document.querySelector('.typo-dys-checkbox');
+
+  checkbox.checked = localStorage.getItem('typoDys') === 'true';
+
+  checkbox.addEventListener('change', function (event) {
+    localStorage.setItem('typoDys', event.currentTarget.checked);
+  });
+});
+</script>
+</body>
+</html>

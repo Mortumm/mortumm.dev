@@ -1,1 +1,117 @@
-<h1 id="here-we-are-at-my-digital-home">Here we are, at my digital home.</h1>
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width-device-width, intial-scale=1">
+    
+    <title>mortumm.dev</title>
+    <meta name="description" content="Mortumm's worklog and portfolio: Hardware enthusiasts transition to software.">
+    <link rel="stylesheet" href="/about/assets/styles.css"></head>
+<body><input class="dark-mode-checkbox sr-only" id="dark-mode" type="checkbox">
+<input class="typo-plus-checkbox sr-only" id="typo-plus" type="checkbox">
+<input class="typo-dys-checkbox sr-only" id="typo-dys" type="checkbox">
+<div class="theme-container grow">
+<header>
+    <div class="site_title" role="heading" aria-level="1">
+      <a href="/about/" class="site-title">
+        mortumm.dev
+      </a>
+    </div>
+  <nav>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+            <a href="/about/about/" class="pages_links">
+              <span class="pages_names">About</span>
+            </a>
+        
+      
+        
+            <a href="/about/archives/" class="pages_links">
+              <span class="pages_names">Archives</span>
+            </a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+  </nav>
+  <div class="site_functions">
+    
+      <label class="dark-mode-label" aria-label="Night Mode" for="dark-mode"></label>
+    
+    
+      <label class="typo-plus-label" aria-label="Change font size" for="typo-plus"></label>
+    
+  </div>
+</header>
+<main class="page_content" aria-label="Content">
+      
+    <article>
+  
+  
+  
+    <div class="apercu-post" role="list">
+      
+        <a href="/about/mortumm/2024/05/15/InitialPost/" role="listitem">
+          <h1 class="list_post_title"><span class="a-nude">Setup and initial post for testing</span></h1>
+        </a>
+        
+        <h2 class="list_post_info">Mortumm ✷ 15 May 2024</h2>
+        <div class="line"></div>
+      
+    </div>
+  
+</article>
+
+
+    </main>      <footer>
+        © It belongs to me.
+      </footer>
+    </div>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+  const checkbox = document.querySelector('.dark-mode-checkbox');
+
+  checkbox.checked = localStorage.getItem('darkMode') === 'true';
+
+  checkbox.addEventListener('change', function (event) {
+    localStorage.setItem('darkMode', event.currentTarget.checked);
+  });
+});
+
+  document.addEventListener('DOMContentLoaded', function () {
+  const checkbox = document.querySelector('.typo-plus-checkbox');
+
+  checkbox.checked = localStorage.getItem('typoPlus') === 'true';
+
+  checkbox.addEventListener('change', function (event) {
+    localStorage.setItem('typoPlus', event.currentTarget.checked);
+  });
+});
+
+    document.addEventListener('DOMContentLoaded', function () {
+  const checkbox = document.querySelector('.typo-dys-checkbox');
+
+  checkbox.checked = localStorage.getItem('typoDys') === 'true';
+
+  checkbox.addEventListener('change', function (event) {
+    localStorage.setItem('typoDys', event.currentTarget.checked);
+  });
+});
+</script>
+</body>
+</html>
