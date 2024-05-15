@@ -1,8 +1,0 @@
----
-layout: post
-title: First one for testing
----
-
-# Test post for new platform
-
-Hi, welcome to my new publishing platform and project / worklog!
