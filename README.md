@@ -1,4 +1,4 @@
-# MORTUMM.DEV
+# mortumm.dev
 
 My worklog and portfolio page.
 
