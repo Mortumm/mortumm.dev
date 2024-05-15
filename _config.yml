@@ -28,7 +28,7 @@ twitter_username: mortumm
 github_username: Mortumm
 
 # Build settings
-theme: simply-cyan
+remote_theme: simply-cyan
 plugins:
   - jekyll-feed
   - jekyll-paginate
