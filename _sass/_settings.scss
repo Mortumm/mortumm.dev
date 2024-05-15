@@ -4,7 +4,7 @@
 :root {
   // Variable for the light mode
   --bg-color: #f2f2f2; // Background color
-  --font-serif: "Libre Baskerville", serif; // Serif font
+  /* --font-serif: "Libre Baskerville", serif; // Serif font */
   --font-sansserif: "Montserrat", sans-serif; // Sans-Serif font
   --font-color: #333333; // Font color
   --font-size: 22px; // Font size
@@ -22,8 +22,8 @@
   --light-mode-label: "LIGHT MODE"; // Label displayed in the header to toggle light mode
   --typo-plus-label: "A+"; // Label displayed in the header to enlarge the font size
   --typo-moins-label: "A-"; // Label displayed in the header to reduce the font size
-  --sans-serif-label: " SANS-SERIF FONT"; // Label displayed at the top of posts to change the font-style to sans-serif
-  --serif-label: "SERIF FONT"; // Label displayed at the top of posts to change the font-style to serif
+ /* --sans-serif-label: " SANS-SERIF FONT"; // Label displayed at the top of posts to change the font-style to sans-serif */
+ /* --serif-label: "SERIF FONT"; // Label displayed at the top of posts to change the font-style to serif */
 }
 
 /* Dark-mode styles */
@@ -101,4 +101,3 @@
 #typo-dys:checked ~ .theme-container {
   --text-font: var(--font-sansserif);
 }
-

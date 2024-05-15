@@ -7,7 +7,7 @@ title: "mortumm.dev" # The site title
 lang: en-GB # The site language
 encoding: utf-8
 description: "Mortumm's worklog and portfolio: Hardware enthusiasts transition to software." # The description of the site
-copyright: "© It belongs to me." # The mentions that appear in the site's footer
+copyright: "© Mortumm - Made with love & coffee." # The mentions that appear in the site's footer
 url: "https://mortumm.dev" # The base hostname for you site, e.g. http://mysite.com
 baseurl: "/" # The subpath of your site, e.g. /blog
 repo: https://github.com/Mortumm/mortumm.dev

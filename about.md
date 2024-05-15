@@ -9,7 +9,7 @@ permalink: /about/
 
 This my very own small corner in the web. An engineer to be, current focus is on server infrastructure and cloud solutions. Mix in some software development too.
 
-Here you can find my portfolio, CV and the random ramblings from all walks of life, hardware and software from a technical point of view mostly.
+Here you can find my curriculum vitae and the random ramblings from all walks of life, hardware and software from a technical point of view mostly.
 
 ## Contact
 
