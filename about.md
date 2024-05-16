@@ -5,8 +5,6 @@ nav_header: true #If you want the page to be displayed on the nav menu on top of
 permalink: /about/
 ---
 
-## Mortumm = Nuno M
-
 This my very own small corner in the web. An engineer to be, current focus is on server infrastructure and cloud solutions. Mix in some software development too.
 
 Here you can find my curriculum vitae and the random ramblings from all walks of life, hardware and software from a technical point of view mostly.
