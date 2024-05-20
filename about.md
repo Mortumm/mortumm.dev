@@ -5,20 +5,41 @@ nav_header: true #If you want the page to be displayed on the nav menu on top of
 permalink: /about/
 ---
 
-This my very own small corner in the web. An engineer to be, current focus is on server infrastructure and cloud solutions. Mix in some software development too.
+## In short
 
-Here you can find my curriculum vitae and the random ramblings from all walks of life, hardware and software from a technical point of view mostly.
+This my very own small corner in the web.
+An engineer to be, hardware enthusiast at heart. Current focus is on server infrastructure and cloud solutions. Some software development too.
+
+## CV
+
+Past work and projects with their respective descriptions in short.
+
+### Work
+
+- Public Library - Service and security management
+
+- Security - Part of my studies and practical work
+
+- ISP - Network and telecommunications specialist
+
+### Projects
+
+- _International Software Development Project_
+
+  - Centria UAS & h_da produced a - prototype for the automotive industry
+
+- _KokkoLAB_
+
+  - Hacklab for elementary and high schoolers
 
 ## Contact
 
-You can reach me on most platforms by the handle @mortumm
+You can reach me on X.com or Discord by the handle @mortumm
 
-Or you could just write me a nice letter to the following address:
+Or you can just write me a nice letter to the following address:
 
 me ( a ) mortumm dot dev
 
 [GitHub](https://github.com/Mortumm)
-
-[X.com](https://x.com/mortumm)
 
 [LinkedIn](https://www.linkedin.com/in/nuno-mendes-engineer/)

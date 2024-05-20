@@ -6,8 +6,8 @@
 title: "mortumm.dev" # The site title
 lang: en-GB # The site language
 encoding: utf-8
-description: "Mortumm's worklog and portfolio: Hardware enthusiasts transition to software." # The description of the site
-copyright: "© Mortumm - Made with love & coffee." # The mentions that appear in the site's footer
+description: "Mortumm's worklog and portfolio: Hardware enthusiasts transition to software through engineering." # The description of the site
+copyright: "© Mortumm" # The mentions that appear in the site's footer
 url: "https://mortumm.dev" # The base hostname for you site, e.g. http://mysite.com
 baseurl: "/" # The subpath of your site, e.g. /blog
 repo: https://github.com/Mortumm/mortumm.dev
@@ -18,7 +18,7 @@ email: me@mortumm.dev # The owner's email
 # 2. SITE AVALAIBLE FUNCTIONS
 darkmode: true # Allows the switch between dark and light mode
 typosize: true # Allows to change the size of the font
-home-posts-limit: 10 # Change the limit of posts displayed on the home page
+home-posts-limit: 5 # Change the limit of posts displayed on the home page
 
 # 3. IGNORED FILES WHILE building
 # These files are essential to the building of your website, but you don't want them to be built with the others
