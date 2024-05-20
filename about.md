@@ -24,11 +24,11 @@ Past work and projects with their respective descriptions in short.
 
 ### Projects
 
-- _International Software Development Project_
+- **International Software Development Project**
 
   - Centria UAS & h_da produced a - prototype for the automotive industry
 
-- _KokkoLAB_
+- **KokkoLAB**
 
   - Hacklab for elementary and high schoolers
 
@@ -36,7 +36,7 @@ Past work and projects with their respective descriptions in short.
 
 You can reach me on X.com or Discord by the handle @mortumm
 
-Or you can just write me a nice letter to the following address:
+Or you can write me a nice letter to the following address:
 
 me ( a ) mortumm dot dev
 
