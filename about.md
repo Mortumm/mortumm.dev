@@ -26,11 +26,11 @@ Past work and projects with their respective descriptions in short.
 
 - **International Software Development Project**
 
-  - Centria UAS & h_da produced a - prototype for the automotive industry
+  Centria UAS & h_da produced a prototype for the automotive industry
 
 - **KokkoLAB**
 
-  - Hacklab for elementary and high schoolers
+  Hacklab for elementary and high schoolers
 
 ## Contact
 
