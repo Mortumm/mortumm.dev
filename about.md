@@ -16,11 +16,11 @@ Past work and projects with their respective descriptions in short.
 
 ### Work
 
-- Public Library - Service and security management
+- **Public Library** - Service and security management
 
-- Security - Part of my studies and practical work
+- **Security** - Part of my studies and practical field work
 
-- ISP - Network and telecommunications specialist
+- **ISP** - Network and telecommunications specialist
 
 ### Projects
 
@@ -34,7 +34,7 @@ Past work and projects with their respective descriptions in short.
 
 ## Contact
 
-You can reach me on X.com or Discord by the handle @mortumm
+You can reach me on X or Discord by the handle @mortumm
 
 Or you can write me a nice letter to the following address:
 
